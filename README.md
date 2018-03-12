@@ -1,2 +1,2 @@
 # Resume
-A Website that showcases my portfolio
+A Website that showcases my portfolio.
